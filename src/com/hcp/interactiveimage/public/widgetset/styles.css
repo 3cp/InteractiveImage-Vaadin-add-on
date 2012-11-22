@@ -1,0 +1,19 @@
+.v-imagewidet {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+
+.v-imagewidget-cover {
+	cursor: crosshair;
+	background-image: url(images/transparent1x1.gif);
+	background-repeat: repeat;
+}
+
+.v-imagewidget-box {
+	margin: 0px;
+	background-color: blue;
+	/*border: 3px solid LawnGreen;*/
+	filter:alpha(opacity=50);
+	opacity:0.5;
+}
